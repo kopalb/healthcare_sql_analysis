@@ -19,14 +19,13 @@ A complete healthcare data analysis project using SQL and Excel, featuring patie
 -healthcare_dashboard_preview.png                      
 -queries_patients_records1.sql                      
 -queries_outputs
-   patients_by_condition.csv
-   test_results_distribution.csv
-   avg_stay_by_admission.csv
-   emergency_peak_month.csv
-   monthly_admissions.csv
-   normal_results_by_medication.csv
-   abnormal_results_by_medication.csv
-   
+   -patients_by_condition.csv
+   -test_results_distribution.csv
+   -avg_stay_by_admission.csv
+   -emergency_peak_month.csv
+   -monthly_admissions.csv
+   -normal_results_by_medication.csv
+   -abnormal_results_by_medication.csv
 -data
    healthcare_dataset.csv                  
 
