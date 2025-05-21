@@ -15,10 +15,10 @@ A complete healthcare data analysis project using SQL and Excel, featuring patie
 - **Microsoft Excel** — pivot tables, charts, and dashboard  
 
 ## 🗂 Files in this reposiory
--healthcare analytics.xlsx       
--healthcare_dashboard_preview.png                      
--queries_patients_records1.sql                      
--queries_outputs
+1. healthcare analytics.xlsx
+2. healthcare_dashboard_preview.png
+3. queries_patients_records1.sql
+4. queries_outputs
    -patients_by_condition.csv
    -test_results_distribution.csv
    -avg_stay_by_admission.csv
@@ -26,7 +26,7 @@ A complete healthcare data analysis project using SQL and Excel, featuring patie
    -monthly_admissions.csv
    -normal_results_by_medication.csv
    -abnormal_results_by_medication.csv
--data
+5. data
    healthcare_dataset.csv                  
 
 ## ✅ Tasks Performed
