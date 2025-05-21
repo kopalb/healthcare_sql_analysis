@@ -8,7 +8,7 @@ A complete healthcare data analysis project using SQL and Excel, featuring patie
 - **% Abnormal Test Results:** 34%  
 - **Average Length of Stay:** 15.51 days
 
-![Dashboard Preview]("C:\Users\Dell!\Downloads\healthcare proj\healthcare_dashboard_preview.png")
+![Dashboard Preview]("healthcare_dashboard_preview.png")
 
 ## 🔧 Tools Used
 - **PostgreSQL (pgAdmin)** — data querying, filtering, grouping, and aggregation  
